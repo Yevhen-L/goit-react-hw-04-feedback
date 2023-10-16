@@ -1,0 +1,7 @@
+.stattistics {
+  background-color: #f7bdb8;
+  padding-left: 20px;
+  .positiveFeedback {
+    font-weight: 700;
+  }
+}
